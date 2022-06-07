@@ -5,6 +5,6 @@
 
     "scripts": {
         "dev": "vercel",
-        "build": "vercel build"
+        "build": "npm run vervel-build"
     }
 }
